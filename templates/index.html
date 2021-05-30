@@ -13,7 +13,7 @@
     <div class="container">
         <form action="{{url_for("handle_data")}}" method="POST">
             <label for="fname">Enter the url here :</label>
-            <input type="text" name="url" id="url" pattern="https://en.wikipedia.org/wiki/(.*)"required><br><br>
+            <input type="text" name="url" id="url" pattern="https://[a-z]{2}.wikipedia.org/wiki/(.*)"required><br><br>
             <input type="submit" value="Submit">
         </form>
     </div>
