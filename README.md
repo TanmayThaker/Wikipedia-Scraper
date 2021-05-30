@@ -26,7 +26,7 @@ HTML, CSS, Flask, Python.
 1. Clone the repo
   ```
   $ git clone https://github.com/TanmayThaker/Wikipedia-Scraper.git
-  $ cd flask-boilerplate
+  $ cd Wikipedia-Scraper
   ```
 
 2. Initialize and activate a virtualenv:
