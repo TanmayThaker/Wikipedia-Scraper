@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../static/results.css"
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap" rel="stylesheet">
+</head>
+
+
+    <body>
+
+        <div class="table-users">
+            <div class="header">Top 10 Most Frequently used Words</div>
+
+            <table cellspacing="0" class="center">
+                <tr>
+                    <th>Word</th>
+                    <th>Count</th>
+                </tr>
+                {% for word,count in top_frequent_words.items() %}
+                <tr>
+                    <td>{{word}}</td>
+                    <td>{{count}}</td>
+                </tr>
+                {% endfor %}
+            </table>
+            <a href="/">
+                <button>Go Back</button>
+            </a>
+        </div>
+
+    </body>
+
+</html>
