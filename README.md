@@ -7,5 +7,5 @@ Steps to use :
 
 Step 1 : Enter a valid wikipedia URL and click on submit
 
-<img src="home_page.png" />
+<img src="main_page.png" />
  
