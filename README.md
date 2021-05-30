@@ -1,7 +1,7 @@
 # Wikipedia-Scraper
 ## Table of Contents
-*[About the project](#about-the-project)
-*[Tech Stack used](#Technologies used)
+* [About the project](#about-the-project)
+* [Tech Stack used](#tech-stack-used)
 
 ## About the project
 This repository contains a Wikipedia-scraper that will scrape the entire wikipedia page and tell us the top 10 Most Frequently used words.
