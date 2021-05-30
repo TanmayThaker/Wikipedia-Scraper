@@ -8,8 +8,8 @@ Enter a valid wikipedia URL and click on submit.
 
 <img src="main_page.PNG" />
 
-It will show the results i.e. top 10 frequntly used words on that page.
+It will show the results i.e. top 10 frequently used words on that page.
  
  <img src="sample_result.PNG" />
 
-Tech Stack used : HTML, CSS, FLASK, PYTHON.
+###Tech Stack used : HTML, CSS, FLASK, PYTHON.
