@@ -1,8 +1,8 @@
 # Wikipedia-Scraper
 
-This repository conatins a Wikipedia-scraper that will scrape the entire wikipedia page and tell us the top 10 Most Frequesntly used words.
+This repository contains a Wikipedia-scraper that will scrape the entire wikipedia page and tell us the top 10 Most Frequently used words.
 It is made using Python as a Backend and HTML CSS in the frontend.
-I have also deployed this on heroku : https://wikipedia-scraper.herokuapp.com/
+I have also deployed it on heroku : https://wikipedia-scraper.herokuapp.com/
 
 Enter a valid wikipedia URL and click on submit.
 
