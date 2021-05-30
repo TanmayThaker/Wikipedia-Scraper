@@ -1,5 +1,9 @@
 # Wikipedia-Scraper
+## Table of Contents
+*[About the Project](#Project Information)
+*[Tech stack used](#Technologies used)
 
+## About the project
 This repository contains a Wikipedia-scraper that will scrape the entire wikipedia page and tell us the top 10 Most Frequently used words.
 It is made using Python as a Backend and HTML CSS in the frontend.
 I have also deployed it on heroku : https://wikipedia-scraper.herokuapp.com/
@@ -12,4 +16,6 @@ It will show the results i.e. top 10 frequently used words on that page.
  
  <img src="sample_result.PNG" />
 
-###Tech Stack used : HTML, CSS, FLASK, PYTHON.
+## Tech Stack used 
+Project is created with :
+HTML, CSS, Flask, Python.
