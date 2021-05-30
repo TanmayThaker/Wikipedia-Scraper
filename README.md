@@ -1,6 +1,6 @@
 # Wikipedia-Scraper
 ## Table of Contents
-*[About the project](#Project Information)
+*[About the project](#about-the-project)
 *[Tech Stack used](#Technologies used)
 
 ## About the project
