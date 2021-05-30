@@ -25,7 +25,7 @@ HTML, CSS, Flask, Python.
 
 1. Clone the repo
   ```
-  $ git clone https://github.com/realpython/flask-boilerplate.git
+  $ git clone https://github.com/TanmayThaker/Wikipedia-Scraper.git
   $ cd flask-boilerplate
   ```
 
@@ -45,4 +45,4 @@ HTML, CSS, Flask, Python.
   $ python app.py
   ```
 
-6. Navigate to [http://localhost:5000](http://localhost:5000)
+6. Navigate to [http://localhost:8000](http://localhost:8000)
